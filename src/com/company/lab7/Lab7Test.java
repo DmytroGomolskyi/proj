@@ -1,12 +1,13 @@
 package com.company.lab7;
 
-import ua.zp.bracad.bratchvv.lab7.animals.Animal;
-import ua.zp.bracad.bratchvv.lab7.animals.Cat;
-import ua.zp.bracad.bratchvv.lab7.animals.Dog;
-import ua.zp.bracad.bratchvv.lab7.compose.TestA;
-import ua.zp.bracad.bratchvv.lab7.compose.TestB;
-import ua.zp.bracad.bratchvv.lab7.devices.Pad;
-import ua.zp.bracad.bratchvv.lab7.devices.SmartPhone;
+
+import com.company.lab7.animals.Animal;
+import com.company.lab7.animals.Cat;
+import com.company.lab7.animals.Dog;
+import com.company.lab7.compose.TestA;
+import com.company.lab7.compose.TestB;
+import com.company.lab7.devices.Pad;
+import com.company.lab7.devices.SmartPhone;
 
 public class Lab7Test {
 
